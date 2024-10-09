@@ -1,38 +1,102 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
 .App {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+main {
+  background: linear-gradient(to bottom, #75757525 80%, #20202000), url("/src/Images/image2.jpg") center no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  height: 90vh; /* Change to vh for viewport height */
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  overflow: hidden; /* Ensures the image does not overflow the main container */
+  position: relative;
 }
 
-.App-link {
-  color: #61dafb;
+main .placement {
+  margin-top: -25px;
+  background-color: #91919156;
+  backdrop-filter: blur(5px);
+  height: 25%;
+  width: 40%;
+  display: flex; /* Changed to flex for better responsiveness */
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  letter-spacing: 2px;
+  flex-direction: row;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+/* Responsive design for mobile */
+@media (max-width: 768px) {
+  main .placement {
+    width: 75%; /* Full width on smaller screens */
+    height: auto; /* Adjust height to auto for better fitting */
+    margin-top: 0; /* Remove negative margin */
   }
-  to {
-    transform: rotate(360deg);
+
+  main .slogan h1 {
+    font-size: 1.8rem; /* Adjust font size for mobile */
   }
+
+  main .slogan h3 {
+    font-size: 1.2em; /* Adjust font size for mobile */
+  }
+
+  main .button_placement {
+    margin: 5vh; /* Increase margin on mobile */
+  }
+
+
+  
+}
+
+main .slogan h3 {
+  font-size: 1.5em;
+  font-weight: 900;
+  color: #ffffff;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+main .slogan h1 {
+  text-transform: capitalize;
+  color: #181818;
+  text-align: center;
+  font-size: 2.5rem;
+}
+
+main .slogan:hover {
+  transform: scale(1.05);
+}
+
+main .button_placement {
+  position: absolute;
+  margin: 2vh; 
+}
+
+main .button_placement button {
+  -webkit-border-radius: 28px;
+  border-radius: 28px;
+  text-shadow: 2px 1px 3px #666666;
+  box-shadow: 0px 1px 3px #666666;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 20px;
+  background: #94480d;
+  padding: 10px 20px;
+  border: solid #1f628d 2px;
+  text-decoration: none;
+}
+
+main .button_placement button:hover {
+  background: #fc893c1a;
+  text-decoration: none;
 }
