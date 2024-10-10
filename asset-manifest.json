@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/MedVie/static/css/main.17809f23.css",
+    "main.css": "/MedVie/static/css/main.64ae8cf5.css",
     "main.js": "/MedVie/static/js/main.7408dd5c.js",
     "static/js/453.826f707e.chunk.js": "/MedVie/static/js/453.826f707e.chunk.js",
     "static/media/image3.jpg": "/MedVie/static/media/image3.1495dcbca94fe466ba4b.jpg",
     "static/media/image2.jpg": "/MedVie/static/media/image2.aa2cf1cac99429902ae4.jpg",
     "static/media/image2-r.jpg": "/MedVie/static/media/image2-r.c6b71b6cb1e138c09334.jpg",
     "index.html": "/MedVie/index.html",
-    "main.17809f23.css.map": "/MedVie/static/css/main.17809f23.css.map",
+    "main.64ae8cf5.css.map": "/MedVie/static/css/main.64ae8cf5.css.map",
     "main.7408dd5c.js.map": "/MedVie/static/js/main.7408dd5c.js.map",
     "453.826f707e.chunk.js.map": "/MedVie/static/js/453.826f707e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17809f23.css",
+    "static/css/main.64ae8cf5.css",
     "static/js/main.7408dd5c.js"
   ]
 }
