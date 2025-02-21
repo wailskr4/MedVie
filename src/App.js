@@ -1,24 +1,23 @@
-import React from 'react'
+import React from 'react';
 import './App.css';
+import Home from "./Components/home/Home";
 import Nav from "./Components/navigation/Nav";
-
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import Footer from "./Components/footer/Footer";
 function App() {
   return (
     <>
-      <Nav />
-      
-      <main>
-   
-    <div className="placement">
-        <div className="slogan" >
-        <h1 className="animate__animated animate__backInUp ">Comprehensive Care for All.</h1>
-    </div>
-</div>
-   
-
-</main>
-</>
     
+       <Router>
+       <Nav />
+      
+      <Routes>
+        <Route path="/" element={<Home />} />
+    
+      </Routes>
+      <Footer />
+    </Router>
+    </>
   );
 }
 

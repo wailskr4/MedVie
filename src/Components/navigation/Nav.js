@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import "./Navstyle.css";
-
+import { NavLink } from "react-router-dom";
 const Header = () => {
   useEffect(() => {
     // Charger les scripts externes après le montage du composant
@@ -30,52 +30,51 @@ const Header = () => {
       }, item.timer);
     });
 
-    // Script Elfsight
-    const scriptElf = document.createElement('script');
-    scriptElf.src = 'https://static.elfsight.com/platform/platform.js';
-    scriptElf.setAttribute('data-use-service-core', '');
-    scriptElf.defer = true;
-    document.body.appendChild(scriptElf);
 
 
   }, []);
 
   return (
     <header>
-      <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+    <style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+</style>
+<nav className="navbar navbar-expand-lg bg-body-tertiary navbar-dark bg-dark" data-bs-theme="dark">
+  <div className="container-fluid">
+    <a className="navbar-brand" href="#">Vita Med</a>
 
-        <div className="container-fluid">
-         
-          <a className="navbar-brand" href="#">Vita Med</a>
+    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span className="navbar-toggler-icon"></span>
+    </button>
 
-          {/* Bouton de navigation pour mobile */}
-          <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <div className="collapse navbar-collapse" id="navbarSupportedContent">
+      {/* Liens de navigation centrés */}
+      <ul className="navbar-nav mx-auto">
+        <li className="nav-item"> 
+          <NavLink className="nav-link" to="/">Home</NavLink>
+        </li>
+        <li className="nav-item">
+          <NavLink className="nav-link" to="/Services" >Service</NavLink>
+        </li>
+        <li className="nav-item">
+          <NavLink className="nav-link" to="/aboutus" >About</NavLink>
+        </li>
+        <li className="nav-item">
+          <NavLink className="nav-link" to="/contact" >Contact</NavLink>
+        </li>
+      </ul>
 
-            <span className="navbar-toggler-icon"></span>
-          </button>
+      {/* Barre de recherche alignée à droite */}
+      <form className="d-flex ms-auto" role="search">
+        <input className="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+        <button className="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+</nav>
 
-          {/* Liens de navigation */}
-          <div className="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul className="navbar-nav ms-auto navbar-nav-scroll navbar-nav "> {/* ms-auto pour aligner à droite */}
-              <li className="nav-item" id="li1"> 
-                <a className="nav-link" href="index.html">Home</a>
-              </li>
-              <li className="nav-item" id="li2">
-                <a className="nav-link" href="#Services">Services</a>
-              </li>
-              <li className="nav-item" id="li3">
-                <a className="nav-link" href="#About">About</a>
-              </li>
-              <li className="nav-item" id="li4">
-                <a className="nav-link" href="#ContactUs">Contact Us</a>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </nav>
 
-      {/* Elfsight widget */}
-      <div className="elfsight-app-a5650f33-1ec9-42ac-ae7e-ca785c974b57" data-elfsight-app-async></div>
+    
     </header>
     
   );
