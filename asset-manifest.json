@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MedVie/static/css/main.016b23f3.css",
+    "main.css": "/MedVie/static/css/main.388612d8.css",
     "main.js": "/MedVie/static/js/main.b8696c22.js",
     "static/js/453.826f707e.chunk.js": "/MedVie/static/js/453.826f707e.chunk.js",
     "static/media/gastroenterology.webp": "/MedVie/static/media/gastroenterology.e67bbc23bbe1e36aab3a.webp",
@@ -27,12 +27,12 @@
     "static/media/image5-re.jpg": "/MedVie/static/media/image5-re.3b4b71b9dc6fed86f4e3.jpg",
     "static/media/gastroenterology1.webp": "/MedVie/static/media/gastroenterology1.e90e371d79890fb2d71d.webp",
     "index.html": "/MedVie/index.html",
-    "main.016b23f3.css.map": "/MedVie/static/css/main.016b23f3.css.map",
+    "main.388612d8.css.map": "/MedVie/static/css/main.388612d8.css.map",
     "main.b8696c22.js.map": "/MedVie/static/js/main.b8696c22.js.map",
     "453.826f707e.chunk.js.map": "/MedVie/static/js/453.826f707e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.016b23f3.css",
+    "static/css/main.388612d8.css",
     "static/js/main.b8696c22.js"
   ]
 }
