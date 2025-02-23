@@ -1,13 +1,11 @@
 {
   "files": {
     "main.css": "/MedVie/static/css/main.483487d4.css",
-    "main.js": "/MedVie/static/js/main.9e326844.js",
+    "main.js": "/MedVie/static/js/main.e2f1db4c.js",
     "static/js/453.826f707e.chunk.js": "/MedVie/static/js/453.826f707e.chunk.js",
-    "static/media/gastroenterology.webp": "/MedVie/static/media/gastroenterology.e67bbc23bbe1e36aab3a.webp",
     "static/media/mri.jpg": "/MedVie/static/media/mri.cf2b7554a2e2fc5e2db6.jpg",
     "static/media/Health Insurance.jpg": "/MedVie/static/media/Health Insurance.c20da0ee6f7bc1b28fad.jpg",
     "static/media/image3.jpg": "/MedVie/static/media/image3.1495dcbca94fe466ba4b.jpg",
-    "static/media/doc6.jpg": "/MedVie/static/media/doc6.5e246df6bdd0ee364313.jpg",
     "static/media/image2.jpg": "/MedVie/static/media/image2.aa2cf1cac99429902ae4.jpg",
     "static/media/image8.jpg": "/MedVie/static/media/image8.1e6bc02e7fb3b0ab1c5f.jpg",
     "static/media/image7.jpg": "/MedVie/static/media/image7.5dff75357d0f45ea8018.jpg",
@@ -19,20 +17,21 @@
     "static/media/2.jpeg": "/MedVie/static/media/2.cbb3f057f41fb6c0924b.jpeg",
     "static/media/surgery.jpg": "/MedVie/static/media/surgery.37fb7d6686f8d9b2ddbe.jpg",
     "static/media/doc4.jpg": "/MedVie/static/media/doc4.a94c34d26eef8712df4e.jpg",
-    "static/media/General Health.jpg": "/MedVie/static/media/General Health.c2a66c16f3b4389411e7.jpg",
+    "static/media/doc6.jpg": "/MedVie/static/media/doc6.28c513fd156d92f48f39.jpg",
     "static/media/doc2.jpg": "/MedVie/static/media/doc2.895c8947347515302928.jpg",
     "static/media/doc3.jpg": "/MedVie/static/media/doc3.c7112e139f7727e4695d.jpg",
     "static/media/image3-re.jpg": "/MedVie/static/media/image3-re.6bcf850be6326ee30ac8.jpg",
     "static/media/1.jpeg": "/MedVie/static/media/1.1caa7b6d400495dea8ea.jpeg",
+    "static/media/General-Health.webp": "/MedVie/static/media/General-Health.1151ea5294043671f9f3.webp",
     "static/media/image5-re.jpg": "/MedVie/static/media/image5-re.3b4b71b9dc6fed86f4e3.jpg",
     "static/media/gastroenterology1.webp": "/MedVie/static/media/gastroenterology1.e90e371d79890fb2d71d.webp",
     "index.html": "/MedVie/index.html",
     "main.483487d4.css.map": "/MedVie/static/css/main.483487d4.css.map",
-    "main.9e326844.js.map": "/MedVie/static/js/main.9e326844.js.map",
+    "main.e2f1db4c.js.map": "/MedVie/static/js/main.e2f1db4c.js.map",
     "453.826f707e.chunk.js.map": "/MedVie/static/js/453.826f707e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.483487d4.css",
-    "static/js/main.9e326844.js"
+    "static/js/main.e2f1db4c.js"
   ]
 }
