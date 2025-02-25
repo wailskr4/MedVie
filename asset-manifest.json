@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MedVie/static/css/main.d8e5e59f.css",
+    "main.css": "/MedVie/static/css/main.1a312063.css",
     "main.js": "/MedVie/static/js/main.a66aef63.js",
     "static/media/mri.jpg": "/MedVie/static/media/mri.cf2b7554a2e2fc5e2db6.jpg",
     "static/media/Health Insurance.jpg": "/MedVie/static/media/Health Insurance.c20da0ee6f7bc1b28fad.jpg",
@@ -25,11 +25,11 @@
     "static/media/2r.jpeg": "/MedVie/static/media/2r.a3d8412be8842a18e728.jpeg",
     "static/media/gastroenterology1.webp": "/MedVie/static/media/gastroenterology1.e90e371d79890fb2d71d.webp",
     "index.html": "/MedVie/index.html",
-    "main.d8e5e59f.css.map": "/MedVie/static/css/main.d8e5e59f.css.map",
+    "main.1a312063.css.map": "/MedVie/static/css/main.1a312063.css.map",
     "main.a66aef63.js.map": "/MedVie/static/js/main.a66aef63.js.map"
   },
   "entrypoints": [
-    "static/css/main.d8e5e59f.css",
+    "static/css/main.1a312063.css",
     "static/js/main.a66aef63.js"
   ]
 }
