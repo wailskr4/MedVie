@@ -1,18 +1,27 @@
 {
   "files": {
     "main.css": "/MedVie/static/css/main.914ea0b9.css",
-    "main.js": "/MedVie/static/js/main.1e07674b.js",
+    "main.js": "/MedVie/static/js/main.a603e087.js",
     "static/media/mri.jpg": "/MedVie/static/media/mri.cf2b7554a2e2fc5e2db6.jpg",
     "static/media/Health Insurance.jpg": "/MedVie/static/media/Health Insurance.c20da0ee6f7bc1b28fad.jpg",
     "static/media/image2.jpg": "/MedVie/static/media/image2.8672d36fe0b71a80b4e7.jpg",
     "static/media/image7.jpg": "/MedVie/static/media/image7.5dff75357d0f45ea8018.jpg",
+    "static/media/membre2.jpg": "/MedVie/static/media/membre2.279d5b7b5321eda478ee.jpg",
     "static/media/image6.jpg": "/MedVie/static/media/image6.bbe202169dfbc2e0cecc.jpg",
+    "static/media/comptable1.jpg": "/MedVie/static/media/comptable1.9c72e82673f9acbab531.jpg",
     "static/media/image.jpg": "/MedVie/static/media/image.7ba0e111fa53358e7a4c.jpg",
     "static/media/image4.jpg": "/MedVie/static/media/image4.66b8304c4d90828cc8d4.jpg",
     "static/media/image5.jpg": "/MedVie/static/media/image5.23c02eefc93c5df1db7a.jpg",
     "static/media/image3.jpg": "/MedVie/static/media/image3.f9a6400c776a20d1a0a2.jpg",
     "static/media/image8.jpg": "/MedVie/static/media/image8.4e791e8f56cc0eae5171.jpg",
+    "static/media/equipement2.jpg": "/MedVie/static/media/equipement2.3a9cfaf4e56f5c4f9816.jpg",
+    "static/media/wail.jpg": "/MedVie/static/media/wail.ee981e25be8869f61a65.jpg",
     "static/media/doc1.jpg": "/MedVie/static/media/doc1.2254cd63dabdf57f84cd.jpg",
+    "static/media/equipement4.jpg": "/MedVie/static/media/equipement4.7d0d8b8f39811acfe5d4.jpg",
+    "static/media/membre1.jpg": "/MedVie/static/media/membre1.528084ec0a891d19004f.jpg",
+    "static/media/equipement1.jpg": "/MedVie/static/media/equipement1.39e114e6c855ce59b369.jpg",
+    "static/media/infirmier.jpg": "/MedVie/static/media/infirmier.d167758fd127e639e6d1.jpg",
+    "static/media/equipement3.jpg": "/MedVie/static/media/equipement3.6bf18992710d78c4f03a.jpg",
     "static/media/2.jpeg": "/MedVie/static/media/2.cbb3f057f41fb6c0924b.jpeg",
     "static/media/surgery.jpg": "/MedVie/static/media/surgery.37fb7d6686f8d9b2ddbe.jpg",
     "static/media/doc2.jpg": "/MedVie/static/media/doc2.895c8947347515302928.jpg",
@@ -27,10 +36,10 @@
     "static/media/gastroenterology1.webp": "/MedVie/static/media/gastroenterology1.e90e371d79890fb2d71d.webp",
     "index.html": "/MedVie/index.html",
     "main.914ea0b9.css.map": "/MedVie/static/css/main.914ea0b9.css.map",
-    "main.1e07674b.js.map": "/MedVie/static/js/main.1e07674b.js.map"
+    "main.a603e087.js.map": "/MedVie/static/js/main.a603e087.js.map"
   },
   "entrypoints": [
     "static/css/main.914ea0b9.css",
-    "static/js/main.1e07674b.js"
+    "static/js/main.a603e087.js"
   ]
 }
