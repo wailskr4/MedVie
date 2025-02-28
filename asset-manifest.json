@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MedVie/static/css/main.d63812ab.css",
-    "main.js": "/MedVie/static/js/main.e5da1124.js",
+    "main.js": "/MedVie/static/js/main.28d902ce.js",
     "static/media/img4.jpg": "/MedVie/static/media/img4.0c82dafe22a532fc9cee.jpg",
     "static/media/servicebanner.jpg": "/MedVie/static/media/servicebanner.ccd939c359d91b0c0343.jpg",
     "static/media/contactbn.jpg": "/MedVie/static/media/contactbn.c975b2d8b74de2a1cda6.jpg",
@@ -53,10 +53,10 @@
     "static/media/gastroenterology1.webp": "/MedVie/static/media/gastroenterology1.e90e371d79890fb2d71d.webp",
     "index.html": "/MedVie/index.html",
     "main.d63812ab.css.map": "/MedVie/static/css/main.d63812ab.css.map",
-    "main.e5da1124.js.map": "/MedVie/static/js/main.e5da1124.js.map"
+    "main.28d902ce.js.map": "/MedVie/static/js/main.28d902ce.js.map"
   },
   "entrypoints": [
     "static/css/main.d63812ab.css",
-    "static/js/main.e5da1124.js"
+    "static/js/main.28d902ce.js"
   ]
 }
