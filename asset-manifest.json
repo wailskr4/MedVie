@@ -1,22 +1,19 @@
 {
   "files": {
-    "main.css": "/MedVie/static/css/main.80f398b1.css",
-    "main.js": "/MedVie/static/js/main.c785499e.js",
-    "static/media/img4.jpg": "/MedVie/static/media/img4.0c82dafe22a532fc9cee.jpg",
-    "static/media/servicebanner.jpg": "/MedVie/static/media/servicebanner.ccd939c359d91b0c0343.jpg",
-    "static/media/contactbn.jpg": "/MedVie/static/media/contactbn.c975b2d8b74de2a1cda6.jpg",
-    "static/media/mri.jpg": "/MedVie/static/media/mri.cf2b7554a2e2fc5e2db6.jpg",
+    "main.css": "/MedVie/static/css/main.c1f28716.css",
+    "main.js": "/MedVie/static/js/main.7eccbd73.js",
     "static/media/Health Insurance.jpg": "/MedVie/static/media/Health Insurance.c20da0ee6f7bc1b28fad.jpg",
-    "static/media/img3.jpg": "/MedVie/static/media/img3.9e88ae39069f712c5439.jpg",
-    "static/media/image2.jpg": "/MedVie/static/media/image2.8672d36fe0b71a80b4e7.jpg",
-    "static/media/img2.jpg": "/MedVie/static/media/img2.5d099a4293782669c4bc.jpg",
     "static/media/image7.jpg": "/MedVie/static/media/image7.5dff75357d0f45ea8018.jpg",
+    "static/media/contactbn.jpg": "/MedVie/static/media/contactbn.88047b0e578ae1ab1f3f.jpg",
+    "static/media/servicebanner.jpg": "/MedVie/static/media/servicebanner.a7e6d85d4d8a52b0f945.jpg",
     "static/media/membre2.jpg": "/MedVie/static/media/membre2.279d5b7b5321eda478ee.jpg",
     "static/media/image6.jpg": "/MedVie/static/media/image6.bbe202169dfbc2e0cecc.jpg",
     "static/media/comptable1.jpg": "/MedVie/static/media/comptable1.9c72e82673f9acbab531.jpg",
     "static/media/image.jpg": "/MedVie/static/media/image.7ba0e111fa53358e7a4c.jpg",
     "static/media/image4.jpg": "/MedVie/static/media/image4.66b8304c4d90828cc8d4.jpg",
+    "static/media/img3.jpg": "/MedVie/static/media/img3.0619fd01a2f7e17d8ca4.jpg",
     "static/media/image5.jpg": "/MedVie/static/media/image5.23c02eefc93c5df1db7a.jpg",
+    "static/media/image2.jpg": "/MedVie/static/media/image2.8672d36fe0b71a80b4e7.jpg",
     "static/media/img9.jpg": "/MedVie/static/media/img9.b906105f4891202531b2.jpg",
     "static/media/image3.jpg": "/MedVie/static/media/image3.f9a6400c776a20d1a0a2.jpg",
     "static/media/img7.jpg": "/MedVie/static/media/img7.cf24fcfba6b6ae168f63.jpg",
@@ -26,10 +23,13 @@
     "static/media/img6.jpg": "/MedVie/static/media/img6.84eb591de65bdd7163c2.jpg",
     "static/media/wail.jpg": "/MedVie/static/media/wail.ee981e25be8869f61a65.jpg",
     "static/media/doc1.jpg": "/MedVie/static/media/doc1.2254cd63dabdf57f84cd.jpg",
+    "static/media/img4.jpg": "/MedVie/static/media/img4.c7840a9ef5282285d65d.jpg",
     "static/media/equipement4.jpg": "/MedVie/static/media/equipement4.7d0d8b8f39811acfe5d4.jpg",
     "static/media/membre1.jpg": "/MedVie/static/media/membre1.528084ec0a891d19004f.jpg",
     "static/media/img1.jpg": "/MedVie/static/media/img1.0ead5224f00fa5aee0b5.jpg",
+    "static/media/img2.jpg": "/MedVie/static/media/img2.21ddd0dfc67d01c1e3c7.jpg",
     "static/media/img5.jpg": "/MedVie/static/media/img5.e5de47c0bae61a4b4f3a.jpg",
+    "static/media/mri.jpg": "/MedVie/static/media/mri.b9ab52562c2375306695.jpg",
     "static/media/cardiology.jpg": "/MedVie/static/media/cardiology.0fbe49fc5f1e2ef134c8.jpg",
     "static/media/equipement1.jpg": "/MedVie/static/media/equipement1.39e114e6c855ce59b369.jpg",
     "static/media/infirmier.jpg": "/MedVie/static/media/infirmier.d167758fd127e639e6d1.jpg",
@@ -52,11 +52,11 @@
     "static/media/2r.jpeg": "/MedVie/static/media/2r.a3d8412be8842a18e728.jpeg",
     "static/media/gastroenterology1.webp": "/MedVie/static/media/gastroenterology1.e90e371d79890fb2d71d.webp",
     "index.html": "/MedVie/index.html",
-    "main.80f398b1.css.map": "/MedVie/static/css/main.80f398b1.css.map",
-    "main.c785499e.js.map": "/MedVie/static/js/main.c785499e.js.map"
+    "main.c1f28716.css.map": "/MedVie/static/css/main.c1f28716.css.map",
+    "main.7eccbd73.js.map": "/MedVie/static/js/main.7eccbd73.js.map"
   },
   "entrypoints": [
-    "static/css/main.80f398b1.css",
-    "static/js/main.c785499e.js"
+    "static/css/main.c1f28716.css",
+    "static/js/main.7eccbd73.js"
   ]
 }
